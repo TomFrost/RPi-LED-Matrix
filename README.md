@@ -23,7 +23,7 @@ This script can be run with Python 2.7 using the latest RPi.GPIO library.  The v
 
 This script requires sudo privileges to run!  Execute with:
 
-	sudo python -O matrix.pi
+	sudo python -O matrix.py
 
 The -O can be omitted, but should provide slightly better performance.  If you're using Arch Linux, use 'python2' and 'pip2' in place of the above.
 
